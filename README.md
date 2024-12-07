@@ -33,3 +33,23 @@ python test_PPO.py
 
 ## Results
 The rewards of all agents will be stored in the file: /runs.
+
+## Cite our paper
+```
+@inproceedings{S2L,
+  author       = {Shaokang Dong and
+                  Chao Li and
+                  Wubing Chen and
+                  Hongye Cao and
+                  Wenbin Li and
+                  Yang Gao},
+  title        = {Multi-Agent Exploration via Self-Learning and Social Learning},
+  booktitle    = {{IEEE} International Conference on Acoustics, Speech and Signal Processing,
+                  {ICASSP} 2024, Seoul, Republic of Korea, April 14-19, 2024},
+  pages        = {5055--5059},
+  publisher    = {{IEEE}},
+  year         = {2024},
+  doi          = {10.1109/ICASSP48485.2024.10446068},
+  timestamp    = {Mon, 05 Aug 2024 15:27:25 +0200}
+}
+```
