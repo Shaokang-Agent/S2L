@@ -1,4 +1,4 @@
-# Implementation of the paper "MULTI-AGENT EXPLORATION VIA SELF-LEARNING AND SOCIAL LEARNING"
+# Implementation of the paper "Multi-Agent Exploration via Self-Learning and Social Learning"
 
 
 ## Goal Cycle Environment
